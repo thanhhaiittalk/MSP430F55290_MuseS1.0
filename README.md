@@ -7,11 +7,11 @@ Developed a device that automatically performs presentations of the artifacts in
 ![Alt text](image/sket.png?raw=false)
 
 ## System hardware architecture
--Microcontroller: MSP430F5529
--Audio board: DFplayer Mini
--Bluetooth board and Beacon: HM10 BLE
--LCD: N5110
--Battery: Lithium Ion
+    -Microcontroller: MSP430F5529.
+    -Audio board: DFplayer Mini.
+    -Bluetooth board and Beacon: HM10 BLE.
+    -LCD: N5110.
+    -Battery: Lithium Ion.
 
 ![Alt text](image/image1.png?raw=false)
 
